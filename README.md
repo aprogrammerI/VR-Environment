@@ -1,28 +1,28 @@
-Vr-enviroment
+# Vr-Enviroment  
 
-A Unity-based virtual reality (VR) environment prototype showcasing basic world-building and interactivity.
+A **Unity-based virtual reality (VR) prototype** showcasing basic world-building and interactivity.  
 
-Project Overview
+---
 
-Vr-enviroment is an introductory VR project created in Unity. The environment was built entirely from Unity primitives, without external assets, to demonstrate core VR development concepts such as object creation, scene composition, and simple interactivity.
+##  Project Overview  
+**Vr-enviroment** is an introductory VR project created in Unity. The environment is built entirely from Unity primitives (no external assets), demonstrating:  
+- Object creation  
+- Scene composition  
+- Basic interactivity  
 
-The virtual space includes:
-Trees
-Benches
-Lamps
-Stones
-Flowers
+The virtual space includes:  
+-  Trees  
+-  Benches  
+-  Lamps  
+-  Stones  
+-  Flowers  
 
-Although the project is intentionally simple, it provides a foundation for experimenting with VR mechanics and scene design.
+Although intentionally simple, this project provides a foundation for experimenting with VR mechanics and scene design.  
 
-Features
+---
 
-Interactive Elements
-Flowers disappear when clicked.
+## ✨ Features  
+- **Interactive Elements** → Flowers disappear when clicked  
+- **Camera Interaction** → Clicking elsewhere moves the camera closer  
+- **Custom Environment** → All objects handcrafted from Unity’s built-in shapes  
 
-Camera Interaction
-Clicking outside interactive objects moves the camera closer.
-
-Custom Environment
-
-All environment objects are manually constructed from Unity’s built-in shapes.
